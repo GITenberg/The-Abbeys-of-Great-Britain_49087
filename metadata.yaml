@@ -1,10 +1,16 @@
 _repo: The-Abbeys-of-Great-Britain_49087
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49087-h/images/cover.jpg
 creator:
   author:
     agent_name: Dixon, H. Claiborne
     gutenberg_agent_id: '45134'
     url: http://www.gutenberg.org/2009/agents/45134
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49087#The-Abbeys-of-Great-Britain
 gutenberg_issued: '2015-05-30'
 gutenberg_type: Text
 identifiers:
